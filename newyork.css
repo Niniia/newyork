@@ -1,0 +1,70 @@
+
+body {
+	background-image: url(newyork.jpg);
+	font-family: Georgia;
+	text-align: right;
+}
+img {
+	float: left;
+}
+
+p {
+	line-height: 40px;
+	font-weight: bold;
+
+}
+
+h1 {
+	text-align: left;
+}
+
+.cover {
+	text-align: right;
+	font-family: Georgia;
+	color: white;
+}
+div {
+	text-align: left;
+
+}
+
+.second {
+	float: right;
+}
+.third {
+	float: left;
+}
+.forth {
+	float: right;
+}
+.fifth {
+	float: left;
+}
+.sixth {
+	float: right;
+}
+
+.gallery {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+h2 {
+	font-family: fantasy;
+	text-align: center;
+	border-bottom: 4px solid grey;
+}
+
+.galleries {
+	margin: 10px;
+	transition: all 1s;
+}
+.galleries:hover {
+	transform: scale(1.1);
+}
+
+h3 {
+	font-family: fantasy;
+	text-align: center;
+}

@@ -1,0 +1,59 @@
+
+
+body {
+	background-color: lightblue;
+}
+
+
+h1 {
+	color: blue;
+	text-align: center;
+	font-family: Georgia;
+}
+h2 {
+	text-decoration: underline;
+}
+
+p {
+	text-align: center;
+	line-height: 22px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+.minititle {
+	color: white;
+	font-family: Georgia;
+}
+
+.webtext {
+	color: white;
+	border: 5px dashed blueviolet;
+	background: rgba(0, 0, 255, 0.3);
+	font-family: Georgia;
+}
+div {
+	color: blueviolet;
+	font-family: Georgia;
+
+} 
+
+a {
+	text-align: left;
+	color:  white;
+	font-family: Georgia;
+}
+footer {
+	text-align: center;
+	color: white;
+	font-family: Georgia;
+	border: 5px dashed blueviolet;
+	background: rgba(0, 0, 255, 0.3);
+}
